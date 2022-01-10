@@ -5,4 +5,7 @@
 * CSS
 * Javascript
 
-![Screenshot](screenshot.png)
+## Live site
+https://kronosgr.github.io/JS-quote-generator/
+
+[![Screenshot](screenshot.png)](https://kronosgr.github.io/JS-quote-generator/)
